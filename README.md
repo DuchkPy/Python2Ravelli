@@ -1,6 +1,7 @@
 | :warning: WARNING          |
 |:---------------------------|
 | Currently in beta ...      |
+| This beta is working for me, waiting for your comments and remarks      |
 
 # Python2Ravelli:
 Add a way to drive Ravelli’s stove using python with an Esp8266 plugged on to the serial port..
