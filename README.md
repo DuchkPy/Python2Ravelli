@@ -3,6 +3,8 @@
 | Currently in beta ...      |
 | This beta is working for me, waiting for your comments and remarks      |
 
+Interesting by another protocol, see [MQTT 2 Ravelli](https://github.com/DuchkPy/MQTT2Ravelli)
+
 # Python2Ravelli:
 Add a way to drive Ravelli’s stove using python with an Esp8266 plugged on to the serial port..
 
