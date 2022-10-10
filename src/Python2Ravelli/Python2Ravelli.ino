@@ -101,9 +101,6 @@ void loop() {
     } else {
       returnThisStr("ERROR: incorrect stove response");
     }
-
-    // AA = 00 --> possible ; 01 --> impossible (par exemple poêle en cours de fonctionnement)
-    // Possibilité d'avoir la du durée du temps de chargement et/ou le temps restant ???
   }
   // Information items:
   else if (ReqType == "StoveStatus") { // Request stove status
